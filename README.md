@@ -14,3 +14,10 @@ The title of the workshop was:
 6. [ ] Die Codierung von Bedeutung - WordVecs und Positional Endcoder
 7. [ ] Verstehen & Algorithmus
 8. [ ] Bias
+
+----
+
+### Executing the Notebooks
+
+You can run, execute and work on the Notebooks in typing following button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/Workshop-Fernuni-Hagen/HEAD)
+
