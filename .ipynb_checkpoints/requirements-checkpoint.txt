@@ -1,9 +1,0 @@
-pyttsx3
-markovify
-numpy
-scipy
-matplotlib
-imageio
-openai
-sympy
-
