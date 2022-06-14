@@ -23,6 +23,6 @@ You can run, execute and work on the Notebooks in typing following button: [![Bi
 
 ### Copyright notice
 
-The images used in this notebook are from the Internet.<br>
+The images used in these notebooks are from the Internet.<br>
 **There might exist copyrights!**<br>
 The notebookes may only be used for teaching purposes.<br>
