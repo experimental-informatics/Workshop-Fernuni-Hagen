@@ -25,4 +25,4 @@ You can run, execute and work on the Notebooks in typing following button: [![Bi
 
 The images used in these notebooks are from the Internet.<br>
 **There might exist copyrights!**<br>
-The notebookes may only be used for teaching purposes.<br>
+The notebooks may only be used for teaching purposes.<br>

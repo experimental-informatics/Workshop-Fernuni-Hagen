@@ -21,3 +21,8 @@ The title of the workshop was:
 
 You can run, execute and work on the Notebooks in typing following button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/Workshop-Fernuni-Hagen/HEAD)
 
+### Copyright notice
+
+The images used in these notebooks are from the Internet.<br>
+**There might exist copyrights!**<br>
+The notebooks may only be used for teaching purposes.<br>
