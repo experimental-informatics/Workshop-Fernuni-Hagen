@@ -19,7 +19,7 @@ The title of the workshop was:
 
 ### Executing the Notebooks
 
-You can run, execute and work on the Notebooks in typing following button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/Workshop-Fernuni-Hagen/HEAD)
+You can execute and work on the Notebooks by pressing the following button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/Workshop-Fernuni-Hagen/HEAD)
 
 ### Copyright notice
 
